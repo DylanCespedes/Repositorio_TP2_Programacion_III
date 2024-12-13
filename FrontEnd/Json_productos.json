@@ -1,0 +1,94 @@
+{
+  "Productos": [
+    {
+      "Id": 0,
+      "Tipo": "Procesador",
+      "Marca": "Ryzen",
+      "Nombre": "Ryzen 5 5600x",
+      "Precio": 200,
+      "Descripcion": "3,14 ghz",
+      "Foto": "https://www.mercadolibre.com.ar/procesador-amd-ryzen-5-5600g-de-6-nucleos-y-44ghz-de-frecuencia/p/MLA21817899"
+    },
+    {
+      "Id": 1,
+      "Tipo": "Grafica",
+      "Marca": "Nvidia",
+      "Nombre": "Rtx 3060ti",
+      "Precio": 300,
+      "Descripcion": "8gb Vram",
+      "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQI-zT9Q4A5DDmmzSi3n_3ule0mupbCYl7mw&s"
+    },
+    {
+      "Id": 2,
+      "Tipo": "Ram",
+      "Marca": "Aorus",
+      "Nombre": "R16 gb",
+      "Precio": 75,
+      "Descripcion": "16 gb de ram 1 pieza",
+      "Foto": "https://http2.mlstatic.com/D_NQ_NP_864464-MLA47624982009_092021-O.webp"
+    },
+    {
+      "Id": 3,
+      "Tipo": "Procesdor",
+      "Marca": "Ryzen",
+      "Nombre": "Ryzen 5 5600g",
+      "Precio": 200,
+      "Descripcion": "3,14 ghz",
+      "Foto": "https://www.tecnoprices.com/mayorista/admin/prodimg/17017-1.jpg"
+    },
+    {
+      "Id": 4,
+      "Tipo": "Memorias Rom",
+      "Marca": "Kingston",
+      "Nombre": "SSd 500 GB",
+      "Precio": 100,
+      "Descripcion": "Ssd de 500 Gb",
+      "Foto": "https://www.venex.com.ar/products_images/1585751936_ssd_480gb_kingston_a400_2.jpg"
+    },
+    {
+      "Id": 5,
+      "Tipo": "Procesador",
+      "Marca": "Intel",
+      "Nombre": "Intel I5 12th generation",
+      "Precio": 400,
+      "Descripcion": "4ghz",
+      "Foto": "https://www.comeros.com.ar/wp-content/uploads/2021/12/COMEROS-INTEL-BX8071512600K-13913b.jpeg"
+    },
+    {
+      "Id": 6,
+      "Tipo": "Procesador",
+      "Marca": "Ryzen",
+      "Nombre": "Ryzen 5 8600g",
+      "Precio": 500,
+      "Descripcion": "6 nucleos 12 subprocesos",
+      "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBJEU3faEoWoZRH0LbDUFdnQgIqwho5yXLg&s"
+    },
+    {
+      "Id": 7,
+      "Tipo": "Grafica",
+      "Marca": "Amd",
+      "Nombre": "rx 7600",
+      "Precio": 500,
+      "Descripcion": "6 nucleos 12 subprocesos",
+      "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0cnv8OlO26jNdTKO-LWC9ZG1xsIcCBx7Lw&s"
+    },
+    {
+      "Id": 8,
+      "Tipo": "Memorias Rom",
+      "Marca": "Wd",
+      "Nombre": "Hdd Wd 1TB",
+      "Precio": 120,
+      "Descripcion": "1tb de espacio Sata",
+      "Foto": "https://fullh4rd.com.ar/img/productos/12/disco-hdd-1tb-wd-blue-sata-iii-35-0.jpg"
+    },
+    {
+      "Id": 9,
+      "Tipo": "Grafica",
+      "Marca": "Nvidia",
+      "Nombre": "rtx 4090",
+      "Precio": 1000,
+      "Descripcion": "La grafica mas potente",
+      "Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBJEU3faEoWoZRH0LbDUFdnQgIqwho5yXLg&s"
+    }
+  ]
+}
